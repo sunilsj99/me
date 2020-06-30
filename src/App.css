@@ -1,0 +1,25 @@
+h2 {
+  color: #3a3335;
+}
+.role {
+  color: #3a3335;
+}
+.avatar {
+  border-radius: 50%;
+}
+
+.sidebar {
+  text-align: center;
+  border-right: 1px solid #f0544f;
+}
+
+ul {
+  list-style: none;
+  display: block;
+  text-align: left;
+}
+
+.nav-link {
+  font-size: 22px;
+  color: #3a3335;
+}
