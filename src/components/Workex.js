@@ -4,6 +4,10 @@ const Workex = () => {
   return (
     <div>
       <Base>
+        <h2>
+          <strong> Work Experience</strong>
+        </h2>
+        <hr />
         <div className="experience mt-4">
           <div className="row heading">
             <div className="col-md-5">
@@ -27,8 +31,7 @@ const Workex = () => {
             </li>
           </ul>
         </div>
-        <br />
-        <div className="experience mt-5">
+        <div className="experience mt-4">
           <div className="row heading">
             <div className="col-md-5">
               <h3>MTX Group Inc.</h3>
@@ -52,6 +55,36 @@ const Workex = () => {
               mognoDB.
             </li>
           </ul>
+        </div>
+        <h2 className="mt-5">
+          <strong> Education</strong>
+        </h2>
+        <hr />
+        <div className="experience mt-4">
+          <div className="row heading">
+            <div className="col-md-8">
+              <h4>LNM Institute of Information Technology, Jaipur</h4>
+              <p className="lead">
+                Bachelor of Technology <br /> Computer Science
+              </p>
+            </div>
+            <div className="col-md-4 text-right">
+              <p className="lead">August 2016 - Present</p>
+            </div>
+          </div>
+        </div>
+        <div className="experience mt-4">
+          <div className="row heading">
+            <div className="col-md-8">
+              <h4>Saint Soldier Public School, Jaipur</h4>
+              <p className="lead">Class XII (Senior Secondary) - CBSE</p>
+            </div>
+            <div className="col-md-4 text-right">
+              <p className="lead">
+                July 2014 - May 2015 <br /> Overall Percenatge : 84.8%
+              </p>
+            </div>
+          </div>
         </div>
       </Base>
     </div>

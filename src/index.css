@@ -48,7 +48,8 @@ i {
 }
 
 .heading,
-.proj-title {
+.proj-title,
+h2 {
   font-family: "Roboto Condensed", sans-serif;
 }
 
