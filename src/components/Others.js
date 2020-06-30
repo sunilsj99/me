@@ -34,13 +34,21 @@ const Others = () => {
             </li>
             <li>
               <span className="bullet">&#8226;</span>
-              <a href="https://drive.google.com/file/d/1_vTN1fYFWbQgMDvaoZKJN_dXhMyTQt6D/view?usp=sharing">
+              <a
+                href="https://drive.google.com/file/d/1_vTN1fYFWbQgMDvaoZKJN_dXhMyTQt6D/view?usp=sharing"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 The Complete Node.JS Developer Course (Third Edition)
               </a>
             </li>
             <li>
               <span className="bullet">&#8226;</span>
-              <a href="https://drive.google.com/file/d/1gOuC0x20dzG2ouyNqGJo_ljt2lixUPDg/view?usp=sharing">
+              <a
+                href="https://drive.google.com/file/d/1gOuC0x20dzG2ouyNqGJo_ljt2lixUPDg/view?usp=sharing"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 Modern React with Redux
               </a>
             </li>

@@ -5,32 +5,56 @@ const Social = () => {
     <div>
       <div className="row text-left socials">
         <div className="col-md-3">
-          <a href="https://github.com/sunilsj99">
+          <a
+            href="https://github.com/sunilsj99"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <i className="fa fa-github fa-2x" aria-hidden="true"></i>
           </a>
         </div>
         <div className="col-md-3">
-          <a href="https://www.linkedin.com/in/sunil-kumar-jain-b75a5612a/">
+          <a
+            href="https://www.linkedin.com/in/sunil-kumar-jain-b75a5612a/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <i className="fa fa-linkedin-square fa-2x" aria-hidden="true"></i>
           </a>
         </div>
         <div className="col-md-3">
-          <a href="https://www.facebook.com/sj.sunil.11">
+          <a
+            href="https://www.facebook.com/sj.sunil.11"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <i className="fa fa-facebook-official fa-2x" aria-hidden="true"></i>
           </a>
         </div>
         <div className="col-md-3">
-          <a href="https://twitter.com/Jainsjcs9">
+          <a
+            href="https://twitter.com/Jainsjcs9"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <i className="fa fa-twitter fa-2x" aria-hidden="true"></i>
           </a>
         </div>
         <div className="col-md-3 mt-3">
-          <a href="https://drive.google.com/file/d/12wDzo3-qr0QklSMBiK8ueO3dBO1x7TVb/view?usp=sharing">
+          <a
+            href="https://drive.google.com/file/d/12wDzo3-qr0QklSMBiK8ueO3dBO1x7TVb/view?usp=sharing"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <i className="fa fa-file-text fa-2x" aria-hidden="true"></i>
           </a>
         </div>
         <div className="col-md-3 mt-3">
-          <a href="mailto:rpspjjjj@gmail.com">
+          <a
+            href="mailto:rpspjjjj@gmail.com"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <i className="fa fa-envelope fa-2x" aria-hidden="true"></i>
           </a>
         </div>
@@ -38,7 +62,7 @@ const Social = () => {
       <br />
       <div className="text-left" style={{ fontSize: "20px" }}>
         <i className="fa fa-phone" aria-hidden="true">
-          &emsp;:&emsp;9001854839
+          &emsp;:&emsp;+91 9001854839
         </i>
         <i className="fa fa-map-marker" aria-hidden="true">
           &emsp;:&emsp; Jaipur, Rajasthan, India

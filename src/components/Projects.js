@@ -27,7 +27,11 @@ const Projects = () => {
           </ul>
           <ul className="proj-buttons">
             <li>
-              <a href="https://github.com/sunilsj99/task-manager-node">
+              <a
+                href="https://github.com/sunilsj99/task-manager-node"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 <button className="view-code">View Code</button>
               </a>
             </li>
@@ -51,12 +55,20 @@ const Projects = () => {
           </ul>
           <ul className="proj-buttons">
             <li>
-              <a href="https://github.com/sunilsj99/weather-node">
+              <a
+                href="https://github.com/sunilsj99/weather-node"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 <button className="view-code">View Code</button>
               </a>
             </li>
             <li>
-              <a href="https://clima-weather-sunil.herokuapp.com/">
+              <a
+                href="https://clima-weather-sunil.herokuapp.com/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 <button className="view-code">Go Live</button>
               </a>
             </li>
@@ -82,12 +94,20 @@ const Projects = () => {
           </ul>
           <ul className="proj-buttons">
             <li>
-              <a href="https://github.com/sunilsj99/Sarcasm-detection">
+              <a
+                href="https://github.com/sunilsj99/Sarcasm-detection"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 <button className="view-code">View Code</button>
               </a>
             </li>
             <li>
-              <a href="https://sarcasm-detection.herokuapp.com/">
+              <a
+                href="https://sarcasm-detection.herokuapp.com/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 <button className="view-code">Go Live</button>
               </a>
             </li>
